@@ -1,2 +1,2 @@
 # loard-spambot
-Loard spambot, literally
+spambot to annoy mr. sugoma and his old Toshiba laptop
